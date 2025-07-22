@@ -11,11 +11,11 @@ As an initial task at the Centre for Epidemiological Modeling and Analysis (CEMA
 
 ### 3. Task process
 ##### a)	Descriptive analysis
-i.	Computing a table showing the mean ILI percentage per county per year.
-ii.	Plotting ILI weekly trend, identifying the peak ILI weeks across counties and describing the seasonal pattern of ILI cases.
+- i.	Computing a table showing the mean ILI percentage per county per year.
+- ii.	Plotting ILI weekly trend, identifying the peak ILI weeks across counties and describing the seasonal pattern of ILI cases.
 #### b)	Computing epidemiological measures
-i.	Calculating the incidence rates per 100,000 population across three counties.
-ii.	Using a correlation to compare ILI percentages across any three counties.
+- i.	Calculating the incidence rates per 100,000 population across three counties.
+- ii.	Using a correlation to compare ILI percentages across any three counties.
 
 ### 4. Findings 
 
