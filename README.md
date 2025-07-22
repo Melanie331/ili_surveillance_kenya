@@ -7,6 +7,7 @@ As an initial task at the Center for Epidemiological Modeling and Analysis (CEMA
 
 ### 2. Data
 – Raw Excel workbook containing all sheets:
+[data/Epi_Task_Data.csv](data/Epi_Task_Data.csv)
 
 
 
