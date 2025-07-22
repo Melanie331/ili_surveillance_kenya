@@ -37,9 +37,12 @@ As an initial task at the Centre for Epidemiological Modeling and Analysis (CEMA
 - i.	Calculating the incidence rates per 100,000 population across three counties.
 - ii.	Using a correlation to compare ILI percentages across any three counties.
 
-### 4. Findings 
+### 4. Findings
 
-
+### 5. Project Notebook
+Explore the full analysis in the Jupyter notebook:  
+[ILI_Surveillance_Analysis.ipynb](notebooks/Melanie_Omondi_CEMA_Epidemiology_Task.ipynb)
+![Open in nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-blue?style=flat-square)
 
 
 
