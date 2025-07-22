@@ -9,6 +9,26 @@ As an initial task at the Centre for Epidemiological Modeling and Analysis (CEMA
 – Raw Excel workbook containing all sheets:
 [data/Epi_Task_Data.csv](data/Epi_Task_Data.csv)
 
+#### Data Sample
+|   year |   epi_week | county   | age_group   |   ili_percentage |   population |
+|-------:|-----------:|:---------|:------------|-----------------:|-------------:|
+|   2023 |          1 | Nairobi  | 0-4yrs      |              6.1 |         3452 |
+|   2024 |          1 | Nairobi  | 0-4yrs      |              3.2 |         3658 |
+|   2023 |          2 | Nairobi  | 0-4yrs      |              4.5 |         3043 |
+|   2024 |          2 | Nairobi  | 0-4yrs      |              4.9 |         2765 |
+|   2023 |          3 | Nairobi  | 0-4yrs      |              4.6 |         6975 |
+|   2024 |          3 | Nairobi  | 0-4yrs      |              3.8 |          609 |
+|   2023 |          4 | Nairobi  | 0-4yrs      |              6.3 |         1642 |
+|   2024 |          4 | Nairobi  | 0-4yrs      |              3.9 |         1118 |
+|   2023 |          5 | Nairobi  | 0-4yrs      |              7   |         9418 |
+|   2024 |          5 | Nairobi  | 0-4yrs      |              3.9 |          526 |
+|   2023 |          1 | Mombasa  | 0-4yrs      |              6   |         9283 |
+|   2024 |          1 | Mombasa  | 0-4yrs      |              7.4 |         1633 |
+|   2023 |          2 | Mombasa  | 0-4yrs      |              1.9 |         2252 |
+|   2024 |          2 | Mombasa  | 0-4yrs      |              3.6 |         7567 |
+|   2023 |          3 | Mombasa  | 0-4yrs      |              3.8 |         5122 |
+|   2024 |          3 | Mombasa  | 0-4yrs      |              5   |         4862 |
+
 ### 3. Task process
 ##### a)	Descriptive analysis
 - i.	Computing a table showing the mean ILI percentage per county per year.
