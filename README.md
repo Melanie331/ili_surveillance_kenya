@@ -48,7 +48,7 @@ As an initial task at the Centre for Epidemiological Modeling and Analysis (CEMA
 Explore the full analysis in the Jupyter notebook:  
 [View PDF](assets/notebook/Melanie_Omondi_CEMA_Epidemiology_Task.pdf)
 
-Run the Jupyter notebook locally: 
+View the Jupyter notebook locally: 
 [View in Google Colab](https://colab.research.google.com/github/Melanie331/ili_surveillance_kenya/blob/main/assets/notebook/Melanie_Omondi_CEMA_Epidemiology_Task.ipynb)
 
 
