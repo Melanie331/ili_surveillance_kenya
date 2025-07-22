@@ -35,18 +35,19 @@ As an initial task at the Centre for Epidemiological Modeling and Analysis (CEMA
 - ii.	Plotting ILI weekly trend, identifying the peak ILI weeks across counties and describing the seasonal pattern of ILI cases.
 ##### b)	Computing epidemiological measures
 - i.	Calculating the incidence rates per 100,000 population across three counties.
-- ii.	Using a correlation to compare ILI percentages across any three counties.
+- ii.	Using correlation and regression to compare ILI percentages across any three counties.
 
 ### 4. Findings
+[Intro Slide](assets/slides/Intro_slide.png)
+[Mean ILI cases per county per year](assets/slides/Slide_1.png)
+[Weekly ILI trends per county](assets/slides/Slide_2.png)
+[Incidence Rates and Regression Analysis](assets/slides/Slide_3.png)
+[Recommendations](assets/slides/Slide_4.png)
 
 ### 5. Project Notebook
 Explore the full analysis in the Jupyter notebook:  
 [Melanie_Omondi_CEMA_Epidemiology_Task.ipynb](assets/notebook/Melanie_Omondi_CEMA_Epidemiology_Task.ipynb)
 
-➡ View rendered version on [nbviewer]
-(https://nbviewer.org/github/Melanie331/ili_surveillance_kenya/blob/main/assets/notebook/Melanie_Omondi_CEMA_Epidemiology_Task.ipynb?flush_cache=true)
-
-![Open in nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-blue?style=flat-square)
 
 
 
