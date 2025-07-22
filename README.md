@@ -38,11 +38,11 @@ As an initial task at the Centre for Epidemiological Modeling and Analysis (CEMA
 - ii.	Using correlation and regression to compare ILI percentages across any three counties.
 
 ### 4. Findings
-[Intro Slide](assets/slides/Intro_slide.png)
-[Mean ILI cases per county per year](assets/slides/Slide_1.png)
-[Weekly ILI trends per county](assets/slides/Slide_2.png)
-[Incidence Rates and Regression Analysis](assets/slides/Slide_3.png)
-[Recommendations](assets/slides/Slide_4.png)
+![Intro Slide](assets/slides/Intro_slide.png)
+![Mean ILI cases per county per year](assets/slides/Slide_1.png)
+![Weekly ILI trends per county](assets/slides/Slide_2.png)
+![Incidence Rates and Regression Analysis](assets/slides/Slide_3.png)
+![Recommendations](assets/slides/Slide_4.png)
 
 ### 5. Project Notebook
 Explore the full analysis in the Jupyter notebook:  
