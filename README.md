@@ -41,9 +41,9 @@ As an initial task at the Centre for Epidemiological Modeling and Analysis (CEMA
 
 ### 5. Project Notebook
 Explore the full analysis in the Jupyter notebook:  
-[Melanie_Omondi_CEMA_Epidemiology_Task.ipynb](ili_surveillance_kenya/notebook/Melanie_Omondi_CEMA_Epidemiology_Task.ipynb)
+[Melanie_Omondi_CEMA_Epidemiology_Task.ipynb](ili_surveillance_kenya/assets/notebook/Melanie_Omondi_CEMA_Epidemiology_Task.ipynb)
 
-➡ View rendered version on [nbviewer](https://nbviewer.org/github/<Melanie331>/<ili_surveillance_kenya>/blob/main/ili_surveillance_kenya/notebook/Melanie_Omondi_CEMA_Epidemiology_Task.ipynb)
+➡ View rendered version on [nbviewer](https://nbviewer.org/github/<Melanie331>/<ili_surveillance_kenya>/blob/main/ili_surveillance_kenya/assets/notebook/Melanie_Omondi_CEMA_Epidemiology_Task.ipynb)
 
 ![Open in nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-blue?style=flat-square)
 
